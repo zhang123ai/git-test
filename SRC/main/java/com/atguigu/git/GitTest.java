@@ -2,10 +2,9 @@ package com.atguigu.git;
 
 /**
  * @author
- * @create 2021-07-31 17:37
+ * @create 2021-07-31 18:48
  */
-public class GetTest {
-
+public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello");
         System.out.println("hello git 2");
@@ -16,5 +15,4 @@ public class GetTest {
         System.out.println("push test");
         System.out.println("my git pull test");
     }
-
 }
